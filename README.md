@@ -78,3 +78,18 @@ Every project needs improvements, Feel free to report any bugs or improvements. 
 
 ## Screanshots
 ![1](SS/1.PNG)
+![2](SS/2.PNG)
+![3](SS/3.PNG)
+![4](SS/4.PNG)
+![5](SS/5.PNG)
+![6](SS/6.PNG)
+![7](SS/7.PNG)
+![8](SS/8.PNG)
+![9](SS/9.PNG)
+![10](SS/10.PNG)
+![11](SS/11.PNG)
+![12](SS/12.PNG)
+![13](SS/13.PNG)
+![14](SS/14.PNG)
+![15](SS/15.PNG)
+![16](SS/16.PNG)
