@@ -75,3 +75,6 @@ Every project needs improvements, Feel free to report any bugs or improvements. 
 - Server side validation for Login/ Sign-up  
 - Not responsive UI
 - User can not answer in every query post
+
+## Screanshots
+![1](SS/1.PNG)
